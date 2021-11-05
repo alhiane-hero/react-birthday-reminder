@@ -1,0 +1,28 @@
+.Person {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.7rem;
+}
+
+.Person img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    display: block;
+    margin-right: .7rem;
+}
+
+.Person .PersonInfo h4 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #444;
+    margin-bottom: .3rem;
+}
+
+.Person .PersonInfo span {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #777;
+}
